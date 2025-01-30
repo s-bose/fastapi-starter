@@ -13,7 +13,7 @@ Starter FastAPI boilerplate I typically use for my projects
 
 ## Project Structure
 
-
+```
 ├── docker-compose.yml
 ├── Dockerfile
 ├── LICENSE
@@ -43,5 +43,4 @@ Starter FastAPI boilerplate I typically use for my projects
 │       └── unit
 │           └── __init__.py
 └── uv.lock
-
-
+```
